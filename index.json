@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2026-aitdna",
+  "versions": [
+    {
+      "commit": "28e3776681b563b5fb25ef137e33ba0e6147209a",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:01:21.281582+00:00"
+    }
+  ]
+}
