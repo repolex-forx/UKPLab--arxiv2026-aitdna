@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/arxiv2026-aitdna/commit/28e3776681b563b5fb25ef137e33ba0e6147209a",
       "git:hexsha": "28e3776681b563b5fb25ef137e33ba0e6147209a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T12:01:21.281059+00:00"
     }
   ]
 }
