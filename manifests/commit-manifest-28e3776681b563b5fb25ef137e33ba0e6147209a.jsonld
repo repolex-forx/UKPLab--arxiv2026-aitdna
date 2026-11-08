@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/UKPLab/arxiv2026-aitdna/commit/28e3776681b563b5fb25ef137e33ba0e6147209a",
+  "@type": "git:Commit",
+  "git:hexsha": "28e3776681b563b5fb25ef137e33ba0e6147209a",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/UKPLab/arxiv2026-aitdna"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/28e3776681b563b5fb25ef137e33ba0e6147209a.nq.gz",
+      "repolex:graphFileSize": 18887
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 18918
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 723
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 10758
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T11:56:21.831212+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
